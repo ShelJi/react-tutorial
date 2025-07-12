@@ -7,3 +7,5 @@ Learn React with detailed explaination of Components and structured Code
 daisyui and tailwind css
 
 `npm install tailwindcss@latest @tailwindcss/vite@latest daisyui@latest`
+
+## Props
