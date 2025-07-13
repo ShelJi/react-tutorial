@@ -1,4 +1,5 @@
 import "./App.css";
+import ExCustomHooks from "./components/ExCustomHooks";
 import SlowFactorialCalculator from "./components/ExUseMemo";
 import Counter from "./components/ExUseStateUseEffect";
 import LearnProps from "./components/LearnProps";
@@ -10,7 +11,8 @@ function App() {
 			<Navbar />
 			{/* <LearnProps name="Shelj" age={22} /> */}
 			{/* <Counter /> */}
-			<SlowFactorialCalculator />
+			{/* <SlowFactorialCalculator /> */}
+			<ExCustomHooks />
 		</>
 	);
 }

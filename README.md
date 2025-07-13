@@ -8,4 +8,6 @@ daisyui and tailwind css
 
 `npm install tailwindcss@latest @tailwindcss/vite@latest daisyui@latest`
 
-## Props
+## hooks
+
+Hooks always starts with re'use*' ex, useState, ...
