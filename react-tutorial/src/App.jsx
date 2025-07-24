@@ -24,7 +24,9 @@ function App() {
 			{/* <GsapTo /> */}
 			{/* <TimelineGSAP /> */}
 
-			<AppMojito />
+			{/* <AppMojito /> */}
+
+			
 		</>
 	);
 }
